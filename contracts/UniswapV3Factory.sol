@@ -75,8 +75,6 @@ contract UniswapV3Factory is IUniswapV3Factory, UniswapV3PoolDeployer, NoDelegat
 
 contract _MAIN_ {
   constructor () public {
-    int i;
-    i = 0;
-    i = i +1;
+
   }
 }
