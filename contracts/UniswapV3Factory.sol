@@ -71,3 +71,10 @@ contract UniswapV3Factory is IUniswapV3Factory, UniswapV3PoolDeployer, NoDelegat
         emit FeeAmountEnabled(fee, tickSpacing);
     }
 }
+
+
+contract _MAIN_ {
+  constructor () public {
+
+  }
+}
